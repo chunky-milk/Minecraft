@@ -2,6 +2,8 @@
 
 Files required to install Minecraft Java on a Raspberry Pi4 2GB,4GB,8GB and Pi 400.
 
+includes Java 16 support.
+
 Forum post: https://www.raspberrypi.org/forums/viewtopic.php?f=78&t=284448
 
 Easy installation using Pi-Apps:  
